@@ -6,9 +6,9 @@
 	npm install
 
 ## screenshot
-	<div style="text-align: center">
-		<img src="https://user-images.githubusercontent.com/29223674/57820428-b9bed780-77c7-11e9-9d8f-94aad008226b.png">
-	</div>
+<div style="text-align: center">
+	<img src="https://user-images.githubusercontent.com/29223674/57820428-b9bed780-77c7-11e9-9d8f-94aad008226b.png">
+</div>
 
 ## depencencies
 	cheerio-httpcli ->(crawling module)
@@ -20,7 +20,5 @@
 	node getExchange 
 
 ## author
-	baedorazy@gmail.com
-
-	
+	baedorazy / baedorazy@gmail.com
 	
