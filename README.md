@@ -1,6 +1,6 @@
 ## getExchange
 	It brings the dollar exchange rate once every two minutes
-	(Naver optal site => exchange USD : KEB HANA BANK)
+	(Naver potal site => exchange USD : KEB HANA BANK)
 
 ## getting started
 	npm install
